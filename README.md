@@ -1,1 +1,2 @@
 # Cause-Abbandono
+For this project I used the HR-Employee-Attrition to analyze different factors and reasons for why the IBM workers decide to leave. I worked on the data by using jupyter notebook extension on Vs Code. AFter doing the data cleaning I moved on representing it on tableau FILE "Progetto sul HR di IBM". Then I decided to represent the graphs alongside the Key datas in "Contesto e Obiettivi dell' analisi."
